@@ -54,16 +54,20 @@ D7 = X Y Z
 ![image](https://user-images.githubusercontent.com/36288975/171543866-5a6eace6-8683-49d7-9c4f-a7cb30ec3035.png)
 ## Figure -04 8 to 3 Decoder implementation 
 
-### Procedure
-/* write all the steps invloved */
+### Procedure:
+
+
 
 
 
 ### PROGRAM 
 /*
 Program for Endocers and Decoders  and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: NIRAUNJANA GAYATHRI G R
+RegisterNumber:  22008369 
+![image](https://user-images.githubusercontent.com/119395610/213845782-7d308cf5-c2b9-4e7d-b5aa-06f39fb7db19.png)
+
+
 */
 
 
@@ -71,7 +75,9 @@ RegisterNumber:
 
 
 
-### RTL LOGIC  
+### RTL LOGIC :
+![image](https://user-images.githubusercontent.com/119395610/213845685-09edb3d9-9ef4-47e6-b54e-59a7405aeed2.png)
+![image](https://user-images.githubusercontent.com/119395610/213845694-a84e2260-5044-4fa7-bea0-93d176074d6f.png)
 
 
 
@@ -80,17 +86,26 @@ RegisterNumber:
 
 
 
-### TIMING DIGRAMS  
 
-
-
-
-
-### TRUTH TABLE 
+### TIMING DIGRAMS :
+![image](https://user-images.githubusercontent.com/119395610/213845711-36c08851-9496-41c7-ac7e-9c2b2131b176.png)
+![image](https://user-images.githubusercontent.com/119395610/213845731-791a2df2-9b75-4753-afd4-fd16a9932293.png)
 
 
 
 
 
 
-### RESULTS 
+### TRUTH TABLE :
+
+![image](https://user-images.githubusercontent.com/119395610/213845738-92026ee9-e36e-47a0-856e-f5d8bba9e847.png)
+![image](https://user-images.githubusercontent.com/119395610/213845744-badb3f8e-d5ac-4697-a31e-33f7cd6b5d72.png)
+
+
+
+
+
+
+### RESULTS :
+
+
